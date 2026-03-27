@@ -31,6 +31,7 @@ This project analyzes the IMDb Top 250 movies dataset using Power BI to uncover 
 * High number of reviewers indicates strong audience engagement.
 * Ratings differences are small, showing overall high quality.
 
+
 ## 🖼️ Dashboard Preview
 
 ![Dashboard](images/dashboard.png)
@@ -38,4 +39,4 @@ This project analyzes the IMDb Top 250 movies dataset using Power BI to uncover 
 ## 📁 Files
 
 * IMDb Dashboard.pbix
-* Dataset (if available)
+* Dataset 
